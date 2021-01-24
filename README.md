@@ -1,4 +1,4 @@
-# Password-Generator-Project
+
 
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
